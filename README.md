@@ -6,10 +6,8 @@ The workbook explores sales performance, customer behavior, product performance,
 
 ## 📥 Download the Workbook
 
-The Excel file is large (~44 MB). Download it from the link below once available, or clone the repository.
-
-> **File:** `Online_Retail_Portfolio_Analysis.xlsx`  
-> Open with **Microsoft Excel**
+**[Download Excel file (Google Drive)](https://drive.google.com/file/d/1Kaf0P-uiyH08nOUsFlC9Kmh6zjA0zquB/view?usp=sharing)**  
+≈ 44 MB · Open with **Microsoft Excel**
 
 ## Workbook Structure
 
